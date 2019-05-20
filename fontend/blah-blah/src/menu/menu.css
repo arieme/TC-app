@@ -1,0 +1,66 @@
+.card_div{
+
+  width: 300px;
+  height: 600px;
+  border-radius: 15px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
+  background-color:white;
+  padding-left: -60   px;
+  margin-top: 10px;
+  margin-left: 10px;
+  
+  color: black;
+}
+#home1,#home2{
+    
+    display: inline-block !important;
+    color:  #2dc86d; 
+       
+}
+h4{
+    color:  #2dc86d;
+}
+
+
+
+
+#title{
+    
+    color:  #2dc86d;
+}
+
+.check{
+    background-color: #2dc86d;
+}
+p{
+    width: 200px;
+    
+}
+#list{  
+    padding-left: -1000px;
+}
+.card_divup{
+  
+}
+.card_divdown{
+    margin-top: 50px;
+    height:400px ;
+    padding-top: 0px;
+  
+    
+}
+.ajt_btn{
+    position: absolute;
+    border: none;
+    border-radius: 100%;
+    padding-left:70px;
+    padding-top: -1000px !important; 
+    color: #2dc86d;
+}
+h4{
+    padding-right: 140px;
+}
+.inline{
+    float: left;
+    
+}

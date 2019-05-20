@@ -1,0 +1,71 @@
+.toolbar{
+    position :fixed;
+    width: 100%;
+    background: grey;
+    height: 56px;
+}
+.btn-connect{
+    position: absolute !important;
+    margin-top: 5% !important;
+    margin-left: 60% !important;
+}
+.mybtn{
+  width: 125.5px;
+  height: 40px;
+  border-radius: 7.5px;
+  box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ff7052;
+  font-size: 15px;
+  font-family:  'Montserrat-Bold', sans-serif;
+  color: white;
+}
+.mynav {
+    height: 80px !important  ;
+    background-color:white !important;
+}
+.divbtn{
+    margin-left: 700px;
+}
+.mydiv{
+    margin-top: 100px;
+    margin-left: 40px;
+
+}
+
+.buttomdiv{
+    flex-direction: row; 
+}
+
+
+
+ ul , ol{
+    list-style-type:  none;
+   
+    
+ }
+ li{
+    float: left;
+    padding: 0 10px;
+ }
+ .btn-inscrire{
+    background-color: transparent;
+    color: #333;
+    border: 1px  #e5e5e5;
+    font-family:  'Montserrat', sans-serif
+    
+    
+
+
+ }
+ h2{
+     font-family:  'Rubik', sans-serif;
+     padding-left: 10px;
+     
+     
+ }
+ #logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 17px;
+    background-color: #ff7052;
+ }

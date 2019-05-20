@@ -1,0 +1,72 @@
+h1{
+width: 500px;
+  height: 67.5px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #212121;
+}
+.mydiv{
+    margin-top: 10%;
+    
+}
+p{
+    font-family: 'Montserrat-Medium', sans-serif; 
+    text-align: left;
+    width: 500px;
+   
+}
+
+.signup{
+    background-color: #2dc86d;
+    
+    
+}
+#p1 ,#p2{
+    display: inline;
+    padding-right: 140px;
+    
+
+}
+#p3 ,#p4{
+    display: inline;
+    padding-right: 150px;
+}
+
+#parag{
+    float:right;
+    margin-right: 100px;
+    
+}
+
+
+#p2{
+    color: black;
+    font-size:  'Montserrat_Bold', sans-serif; 
+    text-decoration: underline;
+    margin-right: -40px;
+}   
+#img{
+    float: left;
+    margin-top: 90px;
+}
+a:link{
+    color: black;
+
+}
+a:hover{
+    color: darkgoldenrod;
+}
+
+
+.div_bas{
+    margin-top: 30px;
+}
+#p3{
+    width: -1px !important;
+}

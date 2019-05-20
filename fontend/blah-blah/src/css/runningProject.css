@@ -1,0 +1,48 @@
+.card {
+    width: 600px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.05);
+  background-color: #ffffff;
+  padding: 20px 30px;
+  }
+
+.head-project{
+    width: auto;
+  height: auto;
+  font-family: Montserrat;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.76;
+  letter-spacing: normal;
+  text-align: left;
+  color: #212121;
+}
+.area-text{
+    width: 500px;
+    height: 61px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7a7a7a;
+    margin-left: -30px;
+}
+.progress-bar{
+    width: 399.9px;
+    height: 12.4px;
+    border-radius: 170px;
+    background-color: #f8f8f8;
+    text-align: left;
+    margin-left: 5px;
+    float: left;
+}
+.val{
+    float:right;
+}

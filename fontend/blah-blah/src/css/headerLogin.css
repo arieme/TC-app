@@ -1,0 +1,45 @@
+.rect-header{
+    width: auto;
+    height: auto;
+    box-shadow: 0 -17px 36px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+}
+
+.logo{
+        width: 60px;
+        height: 60px;
+        border-radius: 20px;
+        background-color: #ff7052;
+        margin-top: 5px;
+        margin-bottom: 5px;
+}
+.Improve {
+    width: auto;
+    height: auto;
+    font-family: Rubik;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.98;
+    letter-spacing: normal;
+    text-align: center;
+    color: #212121;
+    padding-top: 15px;
+    padding-left: 10px;
+
+  }
+  ul,ol{
+      list-style-type: none;
+  }
+  .logo-name{
+         position: relative;
+         text-align: center !important; 
+         margin-bottom: 0px;
+  }
+
+  .logo-name li{
+      float: left;
+  }
+
+  

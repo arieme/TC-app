@@ -1,0 +1,77 @@
+.card {
+    margin-top: 50px;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .input-Login
+{
+    margin-bottom: 10px;
+    font-family: Montserrat;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.47;
+  letter-spacing: normal;
+  color: #7a7a7a;
+}
+.label-login{
+    margin-bottom: 4px;
+    margin-left: 2px;
+}
+.headLogin {
+  width: 100;
+  height: 40px;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.1;
+  letter-spacing: normal;
+  text-align: center;
+  color: #212121;
+}
+
+.login-page{
+    width: 100%;
+    height: 100%;
+    background-color: #fcfcfc;
+}
+
+.btn-login{
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    padding: 10px 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #2dc86d;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-transform: none;
+    line-height: 1.47;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.accept{
+    font-family: Montserrat;
+    padding: 10px 15px;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.47;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7a7a7a;
+
+}
